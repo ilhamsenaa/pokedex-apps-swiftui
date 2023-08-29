@@ -11,7 +11,7 @@ import SwiftUI
 struct ViewPlaygroundApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            PokemonListView()
         }
     }
 }
